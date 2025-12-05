@@ -1,5 +1,5 @@
 ## Hi, I'm Nagesh 👋  
-System Engineer transitioning into Software Developer
+Software Developer
 
 🔹 Skills: HTML, CSS, Javascript, React.JS, Git, Bootstrap, Material UI, RESTful API   
 🔹 Currently Learning: Backend Development  
